@@ -45,6 +45,7 @@ Next setup step only applies if you are setting a brand-new game.
     CLOSE_FOUR_DRAGONS_SYMBOL = CFD
     CLOSE_FOUR_WINDS_SYMBOL = CFW
 
+    # write this command when a player has at least one sequence of numbers (like 1,2,3):
     SEQUENCE_NOT_SPEACIAL_SYMBOL = S
 
     PAIR_DRAGONS_SYMBOL = PD
@@ -55,20 +56,22 @@ Next setup step only applies if you are setting a brand-new game.
     STOP_SYMBOL = - 
 
 ```
-> #### Important! The system only understands the commands (ie shortcuts) from the above list.
-> #### Important! There is no command for a combination consisting of a sequence of numbers (like 1,2,3). Simply ignore those or enter "-" for no points scored. 
-> After selecting a type of combination that you want to select for a given player, enter it into the command line as it appears in the shortcut. Some combinations (like open combination of 3 dragons, or a combination of 2s) will ask you to answer certain questions to award you required doubles.
+> #### Important! The system only understands the commands (ie shortcuts) from the above list. 
+> After selecting a type of combination that you want to select for a given player, enter it into the command line as it
+> appears in the shortcut. Some combinations (like open combination of 3 dragons, or a combination of 2s) will ask you to answer certain questions to award you required doubles.
 > 
 > #### Important! Enter all combinations a player has. You can type the same combination command into the system for a single player. I encourage to do so if: 
 >
 >1. Player has multiple occurrences of a given combination
 >2. The system did not ask how many combinations like this you have.
 > 
-> The system will ask to enter any additional doubles that a winning player deserves. If none are required type 0 (most commonly you will type 0 when you are asked).
+> The system will ask to enter any additional doubles that a winning player deserves. If none are required type 0 
+> (most commonly you will type 0 when you are asked).
 
 
 - When you do this operation for all four players the system will display the calculated scores for all players.
 
 
-## What Next?
-Well, enjoy the game! When you are done playing for the day, save the combinations for the final round you've played and close the program. Make a note of a filename that you used for that game so that you can load the game later.
+## What's Next?
+Well, enjoy the game! When you are done playing for the day, save the combinations for the final round you've played and
+close the program. Make a note of a filename that you used for that game so that you can load the game later.
